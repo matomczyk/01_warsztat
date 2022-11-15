@@ -1,0 +1,13 @@
+exercises:
+    '1_Gra w zgadywanie liczb': { max_points: 0, disabled: true, translations: { en: '1_Number guessing game', pl: '1_Gra w zgadywanie liczb' } }
+    '2_Symulator LOTTO': { max_points: 0, disabled: true, translations: { en: '2_LOTTO simulator', pl: '2_Symulator LOTTO' } }
+    '3_Gra w zgadywanie liczb 2': { max_points: 0, disabled: true, translations: { en: '3_Number guessing game 2', pl: '3_Gra w zgadywanie liczb 2' } }
+    '4_Gra w zgadywanie liczb 3': { max_points: 0, disabled: true, translations: { en: '4_Number guessing game 3', pl: '4_Gra w zgadywanie liczb 3' } }
+    '5_Kostka do gry': { max_points: 0, disabled: true, translations: { en: 5_Dice, pl: '5_Kostka do gry' } }
+    '6_2001': { max_points: 0, disabled: true, translations: { en: '6_2001', pl: '6_2001' } }
+    '1_Gra w zgadywanie liczb - rozwiązanie': { max_points: 0, disabled: true, translations: { en: '1_Number guessing game - solution', pl: '1_Gra w zgadywanie liczb - rozwiązanie' } }
+    '2_Symulator LOTTO - rozwiązanie': { max_points: 0, disabled: true, translations: { en: '2_LOTTO simulator - solution', pl: '2_Symulator LOTTO - rozwiązanie' } }
+    '3_Gra w zgadywanie liczb 2 - rozwiązanie': { max_points: 0, disabled: true, translations: { en: '3_Number guessing game 2 - solution', pl: '3_Gra w zgadywanie liczb 2 - rozwiązanie' } }
+    '4_Gra w zgadywanie liczb 3 - rozwiązanie': { max_points: 0, disabled: true, translations: { en: '4_Number guessing game 3 - solution', pl: '4_Gra w zgadywanie liczb 3 - rozwiązanie' } }
+    '5_Kostka do gry - rozwiązanie': { max_points: 0, disabled: true, translations: { en: '5_Dice - solution', pl: '5_Kostka do gry - rozwiązanie' } }
+    '6_2001 - rozwiązanie': { max_points: 0, disabled: true, translations: { en: '6_2001 - solution', pl: '6_2001 - rozwiązanie' } }
